@@ -9,9 +9,9 @@ import java.sql.SQLException;
 
 public class Main {
 
-    private static final String HOST = "jdbc:mysql://localhost:3306/test";
-    private static final String USERNAME = "root";
-    private static final String PASSWORD = "rootroot";
+    private static final String HOST = "jdbc:mysql://sql7.freemysqlhosting.net:3306/sql7235535";
+    private static final String USERNAME = "sql7235535";
+    private static final String PASSWORD = "5XrrWXrhHr";
 
     public static void main(String[] args) {
 
